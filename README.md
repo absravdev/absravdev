@@ -127,13 +127,13 @@ A small reusable C++ console engine with **three games plugged in through a shar
 <table>
 <tr>
 <td width="42%" align="center">
-  <a href="https://github.com/absravdev/TPV-Learner">
-    <img src="docs/screenshot_postrainerlua.png" width="100%" alt="TPV Learner" />
+  <a href="https://github.com/absravdev/pos-trainer-lua">
+    <img src="docs/screenshot_postrainerlua.png" width="100%" alt="pos-trainer-lua" />
   </a>
 </td>
 <td width="58%" valign="top">
 
-### 🍽️ [TPV Learner](https://github.com/absravdev/TPV-Learner)
+### 🍽️ [TPV Learner](https://github.com/absravdev/pos-trainer-lua)
 
 A Lua/Love2D **POS training simulator built while working as a waiter**, so new staff could practice finding products without holding up service. Solved a real workplace problem with code.
 
@@ -144,12 +144,12 @@ A Lua/Love2D **POS training simulator built while working as a waiter**, so new 
 </p>
 
 <p>
-<img src="https://img.shields.io/github/stars/absravdev/TPV-Learner?style=flat-square&logo=github&label=Stars&labelColor=1A1B26&color=BB9AF7" alt="Stars" />
-<img src="https://img.shields.io/github/last-commit/absravdev/TPV-Learner?style=flat-square&logo=git&label=Last%20commit&labelColor=1A1B26&color=7AA2F7" alt="Last commit" />
-<img src="https://img.shields.io/github/languages/code-size/absravdev/TPV-Learner?style=flat-square&logo=files&label=Size&labelColor=1A1B26&color=7DCFFF" alt="Code size" />
+<img src="https://img.shields.io/github/stars/absravdev/pos-trainer-lua?style=flat-square&logo=github&label=Stars&labelColor=1A1B26&color=BB9AF7" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/absravdev/pos-trainer-lua?style=flat-square&logo=git&label=Last%20commit&labelColor=1A1B26&color=7AA2F7" alt="Last commit" />
+<img src="https://img.shields.io/github/languages/code-size/absravdev/pos-trainer-lua?style=flat-square&logo=files&label=Size&labelColor=1A1B26&color=7DCFFF" alt="Code size" />
 </p>
 
-<a href="https://github.com/absravdev/TPV-Learner">📖 Code</a>
+<a href="https://github.com/absravdev/pos-trainer-lua">📖 Code</a>
 
 </td>
 </tr>
