@@ -75,6 +75,7 @@ Top-down shooter with **15 levels across 5 planets**, 6 enemy types, upgrade sho
 <p>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 <img src="https://img.shields.io/badge/L%C3%96VE2D-E64998?style=flat-square&logoColor=white" alt="Love2D" />
+<img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
 <p>
