@@ -109,6 +109,8 @@ A small reusable C++ console engine with **three games plugged in through a shar
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32" />
 <img src="https://img.shields.io/badge/tinyxml2-EE3424?style=flat-square&logoColor=white" alt="tinyxml2" />
+<img src="https://img.shields.io/badge/Type-Training%20Tool-9ECE6A?style=flat-square" alt="Type" />
+<img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
 <p>
