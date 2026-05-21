@@ -50,7 +50,7 @@ class AbstractRaven:
 ```
 
 > *Ambitious and creative game developer drawn to both the technical and creative sides of the craft.*
-> *Seeking balance between the order of code and the freedom of creativity — passionate about bringing ideas to life through programming.*
+> *Seeking balance between the order of code and the freedom of creativity, passionate about bringing ideas to life through programming.*
 > *A mindful approach to game development.*
 
 ---
