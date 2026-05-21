@@ -268,7 +268,7 @@ A **block puzzle game built in Unity with C#**, inspired by classic tile-fitting
 
 <div align="center">
 
-<em>" Code, balance, and creation — a mindful approach to game development. "</em>
+<em>" Code, balance, and creation, a mindful approach to game development. "</em>
 
 <br/>
 
