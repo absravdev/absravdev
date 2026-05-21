@@ -155,6 +155,39 @@ A Lua/Love2D **POS training simulator built while working as a waiter**, so new 
 </tr>
 </table>
 
+<!-- CARD 4 · BLOCK PUZZLE -->
+
+<table>
+<tr>
+<td width="42%" align="center">
+  <a href="https://github.com/absravdev/block-puzzle-unity">
+    <img src="docs/screenshot_blockpuzzleunity.png" width="35%" alt="block-puzzle-unity" />
+  </a>
+</td>
+<td width="58%" valign="top">
+
+### 🧩 [Block Puzzle](https://github.com/absravdev/block-puzzle-unity)
+
+A **block puzzle game built in Unity with C#**, inspired by classic tile-fitting puzzles. Drag and drop shaped blocks onto a grid, clear full rows and columns, and chain combos for higher scores.
+
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
+</p>
+
+<p>
+<img src="https://img.shields.io/github/stars/absravdev/block-puzzle-unity?style=flat-square&logo=github&label=Stars&labelColor=1A1B26&color=BB9AF7" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/absravdev/block-puzzle-unity?style=flat-square&logo=git&label=Last%20commit&labelColor=1A1B26&color=7AA2F7" alt="Last commit" />
+<img src="https://img.shields.io/github/languages/code-size/absravdev/block-puzzle-unity?style=flat-square&logo=files&label=Size&labelColor=1A1B26&color=7DCFFF" alt="Code size" />
+</p>
+
+<a href="https://github.com/absravdev/block-puzzle-unity">📖 Code</a>
+
+</td>
+</tr>
+</table>
+
 > *Every project README documents what I'd do differently today. Identifying the gap between what I built and what I'd build now is the actual skill that matters.*
 
 ---
