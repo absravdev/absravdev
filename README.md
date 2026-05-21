@@ -176,6 +176,7 @@ A **block puzzle game built in Unity with C#**, inspired by classic tile-fitting
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/Type-Training%20Tool-9ECE6A?style=flat-square" alt="Type" />
 <img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
