@@ -38,7 +38,6 @@ class AbstractRaven:
         self.code_in     = ["C#", "C++", "Lua"]
         self.builds_with = ["Unity", "Unreal", "Love2D"]
         self.philosophy  = "Code, balance, and creation"
-        self.fuel        = ["caffeine","pixels","lo-fi"]
 
     def currently(self):
         return [
