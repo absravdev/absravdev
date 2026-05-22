@@ -108,7 +108,7 @@ A small reusable C++ console engine with **three games plugged in through a shar
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32" />
 <img src="https://img.shields.io/badge/tinyxml2-EE3424?style=flat-square&logoColor=white" alt="tinyxml2" />
-<img src="https://img.shields.io/badge/Type-Training%20Tool-9ECE6A?style=flat-square" alt="Type" />
+<img src="https://img.shields.io/badge/Type-%20Tool-9ECE6A?style=flat-square" alt="Type" />
 <img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
@@ -175,7 +175,7 @@ A **block puzzle game built in Unity with C#**, inspired by classic tile-fitting
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Type-Training%20Tool-9ECE6A?style=flat-square" alt="Type" />
+<img src="https://img.shields.io/badge/Type-%20Tool-9ECE6A?style=flat-square" alt="Type" />
 <img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
@@ -186,6 +186,41 @@ A **block puzzle game built in Unity with C#**, inspired by classic tile-fitting
 </p>
 
 <a href="https://github.com/absravdev/block-puzzle-unity">📖 Code</a>
+
+</td>
+</tr>
+</table>
+
+<!-- CARD 5 · TIKTOK LIVE ARENA -->
+
+<table>
+<tr>
+<td width="42%" align="center">
+  <a href="https://github.com/absravdev/tiktok-live-arena">
+    <img src="docs/screenshot_tiktoklivearena.png" width="35%" alt="TikTok Live Arena" />
+  </a>
+</td>
+<td width="58%" valign="top">
+
+### 📺 [TikTok Live Arena](https://github.com/absravdev/tiktok-live-arena)
+
+Interactive Unity game wired to TikTok Live where **viewers become the players: top gift senders take the three racer slots, the chat votes power-ups in real time**. An experiment from when interactive streams were peaking.
+
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/TikTok%20Live-FF0050?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Live" />
+<img src="https://img.shields.io/badge/Type-%20Tool-9ECE6A?style=flat-square" alt="Type" />
+<img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
+</p>
+
+<p>
+<img src="https://img.shields.io/github/stars/absravdev/tiktok-live-arena?style=flat-square&logo=github&label=Stars&labelColor=1A1B26&color=BB9AF7" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/absravdev/tiktok-live-arena?style=flat-square&logo=git&label=Last%20commit&labelColor=1A1B26&color=7AA2F7" alt="Last commit" />
+<img src="https://img.shields.io/github/languages/code-size/absravdev/tiktok-live-arena?style=flat-square&logo=files&label=Size&labelColor=1A1B26&color=7DCFFF" alt="Code size" />
+</p>
+
+<a href="https://github.com/absravdev/tiktok-live-arena">📖 Code</a>
 
 </td>
 </tr>
