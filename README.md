@@ -69,11 +69,16 @@ class AbstractRaven:
 
 ### 🎮 [Aeternum](https://github.com/absravdev/Aeternum)
 
-Top-down shooter with **15 levels across 5 planets**, 6 enemy types, upgrade shop with tiered abilities. My first complete shipped game, built in 2–3 weeks while learning to program.
+Top-down shooter with **15 levels across 5 planets**, 6 enemy types, and an upgrade shop with tiered abilities. My first complete shipped game, originally built in 2–3 weeks while learning to program. I later extended it with a **global online leaderboard**, a Node.js + Express API on Render backed by a PostgreSQL (Neon) database, with resilient client-side submission (automatic retries + offline caching) so no run is lost even when the server is cold.
 
 <p>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 <img src="https://img.shields.io/badge/L%C3%96VE2D-E64998?style=flat-square&logoColor=white" alt="Love2D" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
 <img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
