@@ -1,16 +1,7 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  BANNER · LOGO                                                  -->
-<!--  Pon tu archivo en docs/banner.png (o cambia el nombre abajo)   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
- 
-<!-- OPCIÓN B · Logo cuadrado centrado (descomenta y comenta la A) -->
 <img src="docs/logo_absrav.png" alt="AbstractRaven" width="220" />
- 
+
 <br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  TYPING BANNER · Orbitron · violeta neón                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+AbstractRaven+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Game+Developer;Exploring+engine+programming;Code+%C2%B7+Balance+%C2%B7+Creation" alt="AbstractRaven banner" />
 <br/>
 <p>
@@ -69,11 +60,12 @@ class AbstractRaven:
 
 ### 🎮 [Aeternum](https://github.com/absravdev/Aeternum)
 
-Top-down shooter with **15 levels across 5 planets**, 6 enemy types, and an upgrade shop with tiered abilities. My first complete shipped game, originally built in 2–3 weeks while learning to program. I later extended it with a **global online leaderboard**, a Node.js + Express API on Render backed by a PostgreSQL (Neon) database, with resilient client-side submission (automatic retries + offline caching) so no run is lost even when the server is cold.
+Top-down shooter with **15 levels across 5 planets**, 6 enemy types, and an upgrade shop with tiered abilities. My first complete shipped game, originally built in 2–3 weeks while learning to program. I later extended it with a **global online leaderboard** — a Node.js + Express API on Render backed by a PostgreSQL (Neon) database, with resilient client-side submission (automatic retries + offline caching) — and a **2-player LAN co-op mode** built on a host-authoritative model over ENet (reliable UDP): the host runs the full simulation while the client sends input and renders snapshots, making desync impossible by design.
 
 <p>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 <img src="https://img.shields.io/badge/L%C3%96VE2D-E64998?style=flat-square&logoColor=white" alt="Love2D" />
+<img src="https://img.shields.io/badge/ENet-UDP%20netcode-4B6BFB?style=flat-square" alt="ENet" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
