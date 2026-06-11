@@ -25,17 +25,15 @@ class AbstractRaven:
         self.alias       = "AbstractRaven"
         self.role        = "Game Developer"
         self.exploring   = "Engine programming"
-        self.education   = "Game Design & Production graduate"
+        self.education   = "Game Design & Production student (final year)"
         self.code_in     = ["C#", "C++", "Lua"]
         self.builds_with = ["Unity", "Unreal", "Love2D"]
-        self.philosophy  = "Code, balance, and creation"
 
     def currently(self):
         return [
-            "Shipping games and building tools",
+            "Finishing my degree",
             "Diving into engine internals (C++)",
-            "Bridging code with art workflows",
-            "Every mistake is a lesson, every challenge a chance to grow",
+            "Shipping and extending my own games",
         ]
 ```
 
@@ -100,8 +98,7 @@ A small reusable C++ console engine with **three games plugged in through a shar
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Win32-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32" />
 <img src="https://img.shields.io/badge/tinyxml2-EE3424?style=flat-square&logoColor=white" alt="tinyxml2" />
-<img src="https://img.shields.io/badge/Type-%20Tool-9ECE6A?style=flat-square" alt="Type" />
-<img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
+<img src="https://img.shields.io/badge/Type-Engine-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
 <p>
@@ -167,7 +164,6 @@ A **block puzzle game built in Unity with C#**, inspired by classic tile-fitting
 <p>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Type-%20Tool-9ECE6A?style=flat-square" alt="Type" />
 <img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
@@ -202,7 +198,6 @@ Interactive Unity game wired to TikTok Live where **viewers become the players: 
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/TikTok%20Live-FF0050?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok Live" />
-<img src="https://img.shields.io/badge/Type-%20Tool-9ECE6A?style=flat-square" alt="Type" />
 <img src="https://img.shields.io/badge/Type-Game-9ECE6A?style=flat-square" alt="Type" />
 </p>
 
@@ -273,19 +268,13 @@ Interactive Unity game wired to TikTok Live where **viewers become the players: 
 
 <div align="center">
 
-<a href="mailto:tu@email.com">
+<a href="mailto:absravdev@gmail.com">
   <img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B26" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/tu-perfil">
-  <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B26" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/tu_handle">
-  <img src="https://img.shields.io/badge/Twitter-7DCFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1B26" alt="Twitter" />
-</a>
-<a href="https://abstractraven.dev">
+<a href="https://abstractraven.com/">
   <img src="https://img.shields.io/badge/Portfolio-9ECE6A?style=for-the-badge&logo=safari&logoColor=white&labelColor=1A1B26" alt="Portfolio" />
 </a>
-<a href="https://absravdev.itch.io">
+<a href="https://absrav.itch.io">
   <img src="https://img.shields.io/badge/itch.io-F38BA8?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=1A1B26" alt="itch.io" />
 </a>
 
@@ -295,10 +284,6 @@ Interactive Unity game wired to TikTok Live where **viewers become the players: 
 
 <div align="center">
 
-<em>" Code, balance, and creation, a mindful approach to game development. "</em>
-
-<br/>
-
-<sub>🐦‍⬛ <b>AbstractRaven</b> · Crafted with caffeine and curiosity</sub>
+<sub>🐦‍⬛ <b>AbstractRaven</b></sub>
 
 </div>
