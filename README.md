@@ -2,7 +2,7 @@
 <img src="docs/logo_absrav.png" alt="AbstractRaven" width="220" />
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+AbstractRaven+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Game+Developer;Exploring+engine+programming;Code+%C2%B7+Balance+%C2%B7+Creation" alt="AbstractRaven banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+AbstractRaven+%F0%9F%90%A6%E2%80%8D%E2%AC%9B;Game+Developer;Exploring+engine+programming" alt="AbstractRaven banner" />
 <br/>
 <p>
   <em>🎮 Game Design & Production student · 🐦‍⬛ AbstractRaven</em>
