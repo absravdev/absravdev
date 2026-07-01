@@ -112,7 +112,43 @@ A small reusable C++ console engine with **three games plugged in through a shar
 </td>
 </tr>
 </table>
+<!-- CARD 6 · DISCORD CLIP PORTAL -->
 
+<table>
+<tr>
+<td width="42%" align="center">
+  <a href="https://github.com/absravdev/discord-clip-portal">
+    <img src="docs/screenshot_portal.png" width="100%" alt="Discord Clip Portal" />
+  </a>
+</td>
+<td width="58%" valign="top">
+
+### 🎬 [Discord Clip Portal](https://github.com/absravdev/discord-clip-portal)
+
+Discord-native clip pipeline and community portal, built end to end and **live in production for a ~250K-sub YouTuber**. He **reacts to a fan clip in Discord** and it's instantly on the site and queued for editing; subscribers **log in with Discord, like and share**; and creators get an **automatic email the moment their clip is picked**. Full-stack, real users, source private.
+
+<p>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages" />
+<img src="https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="R2" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" />
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
+<img src="https://img.shields.io/badge/Type-Full--stack-9ECE6A?style=flat-square" alt="Type" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Status-Live%20in%20production-BB9AF7?style=flat-square&labelColor=1A1B26" alt="Status" />
+<img src="https://img.shields.io/badge/Source-Private-7AA2F7?style=flat-square&labelColor=1A1B26" alt="Source" />
+</p>
+
+<a href="https://github.com/absravdev/discord-clip-portal">📖 Case study</a> · <a href="https://jimmycruck.com/">🌐 Live</a> · <a href="https://jimmycruck.com/clips">🎬 Clips</a> · <a href="https://discord.com/invite/zcAenGZ46G">💬 Discord</a>
+
+</td>
+</tr>
+</table>
 <!-- CARD 3 · TPV LEARNER -->
 
 <table>
