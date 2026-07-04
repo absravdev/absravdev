@@ -34,6 +34,7 @@ class AbstractRaven:
             "Finishing my degree",
             "Diving into engine internals (C++)",
             "Shipping and extending my own games",
+            "Running a live creator platform (clip portal + bot)",
         ]
 ```
 
@@ -125,11 +126,12 @@ A small reusable C++ console engine with **three games plugged in through a shar
 
 ### 🎬 [Discord Clip Portal](https://github.com/absravdev/discord-clip-portal)
 
-Discord-native clip pipeline and community portal, built end to end and **live in production for a ~250K-sub YouTuber**. He **reacts to a fan clip in Discord** and it's instantly on the site and queued for editing; subscribers **log in with Discord, like and share**; and creators get an **automatic email the moment their clip is picked**. Full-stack, real users, source private.
+Discord-native clip pipeline and community portal, built end to end and **live in production for a ~250K-sub YouTuber**. He **reacts to a fan clip in Discord** and it's instantly on the site and queued for editing; subscribers **log in with Discord, like and share** clips in a TikTok-style reel; creators get an **automatic email the moment their clip is picked**; and brands buy **sponsored slots in the feed**, with weighted rotation and per-campaign analytics. Full-stack, real users, source private.
 
 <p>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages" />
 <img src="https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="R2" />
 <img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
@@ -144,7 +146,7 @@ Discord-native clip pipeline and community portal, built end to end and **live i
 <img src="https://img.shields.io/badge/Source-Private-7AA2F7?style=flat-square&labelColor=1A1B26" alt="Source" />
 </p>
 
-<a href="https://github.com/absravdev/discord-clip-portal">📖 Case study</a> · <a href="https://jimmycruck.com/">🌐 Live</a> · <a href="https://jimmycruck.com/clips">🎬 Clips</a> · <a href="https://discord.com/invite/zcAenGZ46G">💬 Discord</a>
+<a href="https://github.com/absravdev/discord-clip-portal">📖 Case study</a> · <a href="https://jimmycruck.com/">🌐 Live</a> · <a href="https://jimmycruck.com/reel">📱 Reel</a> · <a href="https://jimmycruck.com/clips">🎬 Clips</a> · <a href="https://discord.com/invite/zcAenGZ46G">💬 Discord</a>
 
 </td>
 </tr>
@@ -265,6 +267,12 @@ Interactive Unity game wired to TikTok Live where **viewers become the players: 
 
 <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" alt="Engines" />
 <img src="https://img.shields.io/badge/L%C3%96VE2D-E64998?style=for-the-badge&logoColor=white&labelColor=1A1B26" alt="Love2D" />
+
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,postgres,cloudflare&theme=dark" alt="Web & Backend" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black&labelColor=1A1B26" alt="Neon" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&labelColor=1A1B26" alt="Railway" />
 
 **Art & Design**
 
