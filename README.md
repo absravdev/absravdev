@@ -34,12 +34,52 @@ class AbstractRaven:
             "Finishing my degree",
             "Diving into engine internals (C++)",
             "Shipping and extending my own games",
-            "Running a live creator platform (clip portal + bot)",
+            "Building and operating Flockery (flockery.app), a SaaS for creator communities",
         ]
 ```
 
 
 ## 🚀 Featured Projects
+
+<!-- CARD · FLOCKERY -->
+
+<table>
+<tr>
+<td width="42%" align="center">
+  <a href="https://flockery.app/">
+    <img src="docs/screenshot_portal.png" width="100%" alt="Flockery" />
+  </a>
+</td>
+<td width="58%" valign="top">
+
+### 🎬 [Flockery](https://flockery.app/)
+
+A managed community platform on top of Discord for content creators, built end to end and run as a **multi-tenant SaaS: one codebase, N deployments, zero forks**. The creator **reacts to a clip in Discord** and it's instantly on their site; fans **log in with Discord** to like, rate and compete in a TikTok-style reel with **activatable modules** (contests, bounties, clip of the week); and a **React creator panel** controls branding, modules, moderation, stats and email campaigns — everything is per-deployment configuration. **Live in production for a ~250K-sub YouTuber**, plus a public demo. Full-stack, real users, source private.
+
+<p>
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages" />
+<img src="https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="R2" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" />
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
+<img src="https://img.shields.io/badge/Type-SaaS-9ECE6A?style=flat-square" alt="Type" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Status-Live%20in%20production-BB9AF7?style=flat-square&labelColor=1A1B26" alt="Status" />
+<img src="https://img.shields.io/badge/Source-Private-7AA2F7?style=flat-square&labelColor=1A1B26" alt="Source" />
+</p>
+
+<a href="https://flockery.app/">🌐 Website</a> · <a href="https://demo.flockery.app/">🧪 Demo</a> · <a href="https://jimmycruck.com/reel">📱 Live deployment</a> · <a href="https://github.com/absravdev/discord-clip-portal">📖 Case study</a>
+
+</td>
+</tr>
+</table>
 
 <!-- CARD 1 · AETERNUM -->
 
@@ -109,44 +149,6 @@ A small reusable C++ console engine with **three games plugged in through a shar
 </p>
 
 <a href="https://github.com/absravdev/Mini-Game-Engine">📖 Code</a>
-
-</td>
-</tr>
-</table>
-<!-- CARD 6 · DISCORD CLIP PORTAL -->
-
-<table>
-<tr>
-<td width="42%" align="center">
-  <a href="https://github.com/absravdev/discord-clip-portal">
-    <img src="docs/screenshot_portal.png" width="100%" alt="Discord Clip Portal" />
-  </a>
-</td>
-<td width="58%" valign="top">
-
-### 🎬 [Discord Clip Portal](https://github.com/absravdev/discord-clip-portal)
-
-Discord-native clip pipeline and community portal, built end to end and **live in production for a ~250K-sub YouTuber**. He **reacts to a fan clip in Discord** and it's instantly on the site and queued for editing; subscribers **log in with Discord, like and share** clips in a TikTok-style reel; creators get an **automatic email the moment their clip is picked**; and brands buy **sponsored slots in the feed**, with weighted rotation and per-campaign analytics. Full-stack, real users, source private.
-
-<p>
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-<img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages" />
-<img src="https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="R2" />
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" />
-<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" alt="Resend" />
-<img src="https://img.shields.io/badge/Type-Full--stack-9ECE6A?style=flat-square" alt="Type" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Status-Live%20in%20production-BB9AF7?style=flat-square&labelColor=1A1B26" alt="Status" />
-<img src="https://img.shields.io/badge/Source-Private-7AA2F7?style=flat-square&labelColor=1A1B26" alt="Source" />
-</p>
-
-<a href="https://github.com/absravdev/discord-clip-portal">📖 Case study</a> · <a href="https://jimmycruck.com/">🌐 Live</a> · <a href="https://jimmycruck.com/reel">📱 Reel</a> · <a href="https://jimmycruck.com/clips">🎬 Clips</a> · <a href="https://discord.com/invite/zcAenGZ46G">💬 Discord</a>
 
 </td>
 </tr>
