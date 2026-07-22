@@ -1,15 +1,10 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/logo_absrav.png" />
-  <img src="docs/logo_absrav_light.png" alt="AbstractRaven" width="140" />
-</picture>
-
 # AbstractRaven
 
 Game developer · engine programming · Game Design & Production student
 
-[abstractraven.com](https://abstractraven.com/) · [itch.io](https://absrav.itch.io) · [absravdev@gmail.com](mailto:absravdev@gmail.com)
+[abstractraven.com](https://abstractraven.com/) · [itch.io](https://absrav.itch.io) · [absrav@flockery.app](mailto:absrav@flockery.app)
 
 </div>
 
@@ -17,7 +12,7 @@ Game developer · engine programming · Game Design & Production student
 
 ## About
 
-I build games and the systems that keep them running — gameplay in Unity and LÖVE2D, engine internals in C++, and production backends for the web. Final year of a Game Design & Production degree, currently splitting my time between engine programming and operating a SaaS I built end to end.
+I build games and the systems that keep them running: gameplay in Unity and LÖVE2D, engine internals in C++, and production backends for the web. Final year of a Game Design & Production degree, currently splitting my time between engine programming and operating a SaaS I built end to end.
 
 - Digging into engine internals in C++
 - Extending and shipping my own games
@@ -36,7 +31,7 @@ I build games and the systems that keep them running — gameplay in Unity and L
 
 ### [Flockery](https://flockery.app/)
 
-A managed community platform on top of Discord for content creators, built end to end and run as a multi-tenant SaaS — one codebase, N deployments, zero forks. Creators react to a clip in Discord and it lands on their site instantly; fans log in with Discord to like, rate and compete in a TikTok-style reel with activatable modules (contests, bounties, clip of the week). A React panel drives branding, modules, moderation, stats and email campaigns, all as per-deployment configuration.
+A managed community platform on top of Discord for content creators, built end to end and run as a multi-tenant SaaS: one codebase, N deployments, zero forks. Creators react to a clip in Discord and it lands on their site instantly; fans log in with Discord to like, rate and compete in a TikTok-style reel with activatable modules (contests, bounties, clip of the week). A React panel drives branding, modules, moderation, stats and email campaigns, all as per-deployment configuration.
 
 Live in production for a ~250K-subscriber YouTuber, plus a public demo. Source private.
 
@@ -59,9 +54,9 @@ Live in production for a ~250K-subscriber YouTuber, plus a public demo. Source p
 
 ### [Aeternum](https://github.com/absravdev/Aeternum)
 
-Top-down shooter with 15 levels across 5 planets, 6 enemy types and a tiered upgrade shop. My first complete shipped game, originally built in 2–3 weeks while learning to program.
+Top-down shooter with 15 levels across 5 planets, 6 enemy types and a tiered upgrade shop. My first complete shipped game, originally built in 2-3 weeks while learning to program.
 
-Later extended with a global online leaderboard — Node.js + Express on Render backed by PostgreSQL on Neon, with automatic retries and offline caching on the client — and a 2-player LAN co-op mode built on a host-authoritative model over ENet: the host runs the full simulation while the client sends input and renders snapshots, making desync impossible by design.
+Later extended with a global online leaderboard (Node.js + Express API on Render, PostgreSQL on Neon, automatic retries and offline caching on the client) and a 2-player LAN co-op mode built on a host-authoritative model over ENet: the host runs the full simulation while the client sends input and renders snapshots, making desync impossible by design.
 
 `Lua` `LÖVE2D` `ENet` `Node.js` `Express` `PostgreSQL` `Render` `Neon`
 
