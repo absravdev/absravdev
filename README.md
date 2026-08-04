@@ -2,7 +2,7 @@
 
 # AbstractRaven
 
-Game developer · engine programming · Game Design & Production student
+Game developer · engine programming · full-stack · open to work
 
 [abstractraven.com](https://abstractraven.com/) · [itch.io](https://absrav.itch.io) · [absrav@flockery.app](mailto:absrav@flockery.app)
 
@@ -12,11 +12,13 @@ Game developer · engine programming · Game Design & Production student
 
 ## About
 
-I build games and the systems that keep them running: gameplay in Unity and LÖVE2D, engine internals in C++, and production backends for the web. Final year of a Game Design & Production degree, currently splitting my time between engine programming and operating a SaaS I built end to end.
+I build games and the systems that keep them running: gameplay in Unity and LÖVE2D, engine internals in C++, and production backends for the web. Right now I split my time between engine programming and operating a SaaS I built end to end.
 
 - Digging into engine internals in C++
 - Extending and shipping my own games
 - Building and running [Flockery](https://flockery.app), a multi-tenant SaaS for creator communities
+
+**Game Design & Production**: all coursework done, only the final thesis left, so I'm available full time from day one. Open to game, engine and backend roles.
 
 ## Projects
 
