@@ -25,6 +25,27 @@ I build games and the systems that keep them running: gameplay in Unity and LÖV
 <table>
 <tr>
 <td width="40%" align="center">
+  <a href="https://github.com/absravdev/sfp-tool-showcase">
+    <img src="docs/screenshot_sfptool.png" width="100%" alt="SFP Tool" />
+  </a>
+</td>
+<td width="60%" valign="top">
+
+### [SFP Tool](https://github.com/absravdev/sfp-tool-showcase)
+
+An internal suite that automates the paperwork of subsidised vocational training courses: it reads employment records in the browser, fills official PDF forms that stay editable, generates teaching plans from official specs with human-reviewed AI, and runs courses, grades and a management dashboard with server-enforced roles. Proposed and built on my own initiative while working in administration; used daily by the training centre's staff. Source private.
+
+`TypeScript` `Cloudflare Workers` `Neon` `R2` `Cloudflare Access` `pdf-lib` `Gemini`
+
+[Case study](https://github.com/absravdev/sfp-tool-showcase)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="40%" align="center">
   <a href="https://flockery.app/">
     <img src="docs/screenshot_portal.png" width="100%" alt="Flockery" />
   </a>
