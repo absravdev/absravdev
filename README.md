@@ -56,11 +56,11 @@ An internal suite that automates the paperwork of subsidised vocational training
 
 A managed community platform on top of Discord for content creators, built end to end and run as a multi-tenant SaaS: one codebase, N deployments, zero forks. Creators react to a clip in Discord and it lands on their site instantly; fans log in with Discord to like, rate and compete in a TikTok-style reel with activatable modules (contests, bounties, clip of the week). A React panel drives branding, modules, moderation, stats and email campaigns, all as per-deployment configuration.
 
-Live in production for a ~250K-subscriber YouTuber, plus a public demo. Source private.
+Live in production for a ~250K-subscriber YouTuber. Source private.
 
 `Node.js` `React` `PostgreSQL` `Discord OAuth2` `Cloudflare` `Railway` `Neon` `R2` `Resend`
 
-[Website](https://flockery.app/) · [Demo](https://demo.flockery.app/) · [Live deployment](https://jimmycruck.com/reel) · [Case study](https://github.com/absravdev/discord-clip-portal)
+[Website](https://flockery.app/) · [Live deployment](https://jimmycruck.com/reel) · [Case study](https://github.com/absravdev/discord-clip-portal)
 
 </td>
 </tr>
